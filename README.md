@@ -1,0 +1,2 @@
+# Silo
+Home Automation Orchestrator
